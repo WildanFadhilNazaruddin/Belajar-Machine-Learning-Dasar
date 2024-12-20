@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore virtual environment directories
+.env
+.venv
+
+kaggle.json
+kaggle.json
