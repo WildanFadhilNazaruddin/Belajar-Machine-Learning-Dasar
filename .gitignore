@@ -3,6 +3,6 @@
 # Ignore virtual environment directories
 .env
 .venv
-
+.pytest_cache
 kaggle.json
 kaggle.json
